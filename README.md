@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hola, soy Alexandra Tellez 👋
 
-<!--
-**Al3x42004/Al3x42004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Full Stack en Bogotá, con experiencia profesional construyendo
+aplicaciones web con **Angular** y **Node.js**.
 
-Here are some ideas to get you started:
+### 🛠️ Stack
+**Frontend:** Angular · TypeScript · HTML/CSS · React
+**Backend:** Node.js · Express · Java
+**Móvil:** Flutter
+**Herramientas:** Git · Nx · Bitbucket Pipelines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Proyectos destacados
+
+
+
+
+🎓 Ingeniería, Universidad Nacional Abierta Y Distancia
